@@ -20,6 +20,3 @@ console.log ('before all')
     return namedFunction()
         
     };
-
-const myAnonymousFunction = returnsAnAnonymousFunction();
-myAnonymousFunction();
